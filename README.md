@@ -9,14 +9,22 @@ This is Youtube Clone build using React Native and Tailwind css Redux js etc.
 
 ## Installation
 
-Use the following [Expo Documentation](https://docs.expo.dev/) and Run following code in the Terminal After cloning the Repo.
+Use the [Expo Documentation](https://docs.expo.dev/) and Run following code in the Terminal After cloning the Repo to install the node-modules.
 
-```bash
+```
+npm install
+```
+
+
+
+
+Run following code in the Terminal After installing the node-modules to run the project
+
+```
 npm start
 ```
 
 
-```
 
 ## Contributing
 
@@ -24,7 +32,7 @@ Pull requests are welcome. For major changes, please open an issue first
 to discuss what you would like to change.
 
 Please make sure to update tests as appropriate.
-```
+
 
 ## License
 
